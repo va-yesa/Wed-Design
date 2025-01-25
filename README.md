@@ -1,2 +1,2 @@
-# Wed-Design
+# WeB-Design
 FRONT-END BURGER SITE
